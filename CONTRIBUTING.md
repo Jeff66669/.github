@@ -28,3 +28,6 @@ Here are a few things you can do that will increase the likelihood of your pull 
 - [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
 - [Using Pull Requests](https://help.github.com/articles/about-pull-requests/)
 - [GitHub Help](https://help.github.com)
+script/bootstrap
+script/cibuild
+Create a new branch: git checkout -b my-branch-name
